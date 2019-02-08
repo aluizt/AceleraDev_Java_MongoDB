@@ -1,0 +1,13 @@
+> Task :clean
+> Task :compileJava
+> Task :processResources
+> Task :classes
+> Task :compileTestJava
+> Task :processTestResources NO-SOURCE
+> Task :testClasses
+
+> Task :test
+2019-02-08 14:44:26.731  INFO 6900 --- [       Thread-6] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@31f1d5bb: startup date [Fri Feb 08 14:44:11 BRST 2019]; root of context hierarchy
+
+BUILD SUCCESSFUL in 20s
+5 actionable tasks: 5 executed
